@@ -24,3 +24,7 @@ Maven
 ExtentReport
 TestNG
 # KEY CONTRIBUTIONS
+Harshada Ukkojikar
+Abhishek Roop Chand Ahirwar
+Omkar Vishnu Vaidya
+P J Akhil 
